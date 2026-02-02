@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <!-- Новые строки -->
+    <string name="dialog_download_title">Скачать фото?</string>
+    <string name="dialog_download_message">Сохранить котика в галерею?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="downloading_start">Скачивание началось...</string>
+    <string name="error_no_permission">Нужно разрешение на сохранение файлов</string>
+    <string name="load_more">Загрузить еще</string>
+    <string name="loading">Загрузка…</string>
+    <string name="like">Like</string>
+    <string name="todo">TODO</string>
+    <string name="no_cats">Нет избранных котов</string>
+    <string name="cats">Коты</string>
+    <string name="favorite_cats">Избранные коты</string>
+</resources>

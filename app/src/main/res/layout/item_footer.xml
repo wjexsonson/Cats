@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/loadMoreButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/load_more" />
+
+    <ProgressBar
+        android:id="@+id/footerProgressBar"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+</FrameLayout>
